@@ -83,6 +83,6 @@ const arcadeConfig = ArcadeConfig(
   fallDown: false,
   tip1Id: 'cannoncarpclimbchocolate',
   tip2Id: 'cannoncarpclimbcoffee',
-  tip1Label: '💛 Buy me a chocolate',
-  tip2Label: '💛 Buy me a coffee',
+  tip1Label: '💛 Buy Cannon Carp Climb a chocolate',
+  tip2Label: '💛 Buy Cannon Carp Climb a coffee',
 );
